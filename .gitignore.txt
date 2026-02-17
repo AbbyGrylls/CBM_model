@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+# Models
+*.keras
+*.h5
+__pycache__/
